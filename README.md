@@ -15,9 +15,9 @@ She has been on the both sides of programming and management.
 
 Detailed background:
 
-- IBM: did performance and functional QA, worked with databases
-- IIM Indore: did an MBA in IT & strategy,
-- HSBC: helped the bank deliver changes that involved 1000s of moving parts
+- IBM: did performance and functional QA, worked with databases.
+- IIM Indore: did an MBA in IT & strategy.
+- HSBC: helped the bank deliver changes that involved 1000s of moving parts.
 - JioMoney: making sure that JioMoney app gets shipped on the 1500 rupee Jio phone.
 
 [Transcript](https://medium.com/@krichasahu/management-and-programming-d42c43704e5f)
